@@ -1,0 +1,27 @@
+principal(){
+
+ entero numero;
+ entero i;
+ entero resultado;	
+
+ imprimir ("Programa para tablas de multiplicar")
+  imprimir ("Ingresa un número para mostrar sus multiplicaciones");
+
+ $
+ 
+ leer(numero);
+
+   &
+
+ ciclo_for(i = 1; i<= numero;i++){
+
+	resultado += numero*i;
+	imprimir(resultado);
+
+	}
+ 	
+	 leer(numero)
+}    
+
+
+

@@ -1,0 +1,45 @@
+
+principal(){
+
+cadena nombrePersona;
+entero edad;
+bool mayor;
+
+imprimir("Ingresa tu nombre");
+leer(nombrePersona);
+
+imprimir ("Ingresa tu edad");
+leer(edad);
+
+	asignacion mayor = 3;
+
+
+cuando(mayor>12){
+	
+	asignacion mayor = verdadero;
+
+}
+
+sino{
+
+	asignacion imprimir = 3;
+
+
+}
+
+
+cuando(mayor){
+
+	imprimir("Eres mayor de edad");
+
+}
+
+sino {
+
+	imprimir("Eres menor de edad");
+
+}
+
+
+
+}
